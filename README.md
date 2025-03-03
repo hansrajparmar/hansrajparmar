@@ -7,11 +7,11 @@
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hansrajparmar&label=Profile%20views&color=0e75b6&style=flat" alt="hansrajparmar" /> </p>
 
-- 🔭 I’m currently working on **Solar Freelancing Project**
+- 🔭 I’m currently working at **Jio Platforms as SDE**
 
 - 🌱 I’m currently learning **Web 3.0**
 
-- 💬 Ask me about **React, Node.js, Placement, Career, Freelancing**
+- 💬 Ask me about **React, Node.js, Java, SpringBoot, Placement, Career, Freelancing**
 
 - 📫 How to reach me **hansraj.ccs@gmail.com**
 
