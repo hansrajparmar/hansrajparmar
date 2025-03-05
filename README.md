@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working at **Jio Platforms as SDE 1**
 
-- 🌱 I’m currently learning **Web 3.0**
+- 🌱 I’m currently learning **Web 3.0 and Java SpringBoot**
 
 - 💬 Ask me about **React, Node.js, Java, SpringBoot, Placement, Career, Freelancing**
 
