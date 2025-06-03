@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **React, Node.js, Java, SpringBoot, Placement, Career, Freelancing**
 
-- 📫 How to reach me **hansraj.ccs@gmail.com**
+- 📫 How to reach me **hansraj.oct77@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1KQMlhlWS-qOZ-gU6E0xTffVfQW5ppvon/view](https://drive.google.com/file/d/1KQMlhlWS-qOZ-gU6E0xTffVfQW5ppvon/view)
 
